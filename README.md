@@ -1,6 +1,15 @@
 # zcar_app
+### **Ejecutar en Docker**
 
-phpMyAdmin
+docker-compose up
+
+### **phpMyAdmin** 
+ 
 Usuario: MYSQL_USER
+ 
 Contraseña: MYSQL_PASSWORD
+
+### **Tablas de la base de datos (Primera vez)**
+
+Ejecutar en "importar" el documento query_db.sql
 
