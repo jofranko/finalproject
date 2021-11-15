@@ -11,5 +11,5 @@ Contraseña: MYSQL_PASSWORD
 
 ### **Tablas de la base de datos (Primera vez)**
 
-Ejecutar en "importar" el documento query_db.sql
+Ejecutar en "importar" de phpMyAdmin el documento query_db.sql
 
