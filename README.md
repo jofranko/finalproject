@@ -36,7 +36,8 @@ Allí usted debe, por medio de la opción _Browse..._, abrir el script de base d
 
 Una vez finalizado este proceso, puede acceder libremente al servidor web de la aplicación por medio de la siguiente ruta: [localhost:8000](https://localhost:8000/).
 
-***Side Note:***
+## **Uso del aplicativo web**
+
 para acceder en modo adminsitrador al sistema CRUD, usted debe ingresar por medio del siguiente usuario:
 
 Usuario: admin
@@ -51,7 +52,7 @@ Contraseña: a
 
 También puede crear estos usuarios a partir del menú de _Sign in_ que se encuentra en la parte superior de la aplicación. 
 
-# **DockerHub**
+# **DockerHub image**
 
 https://hub.docker.com/r/jofranko/zcar_app/tags
 
